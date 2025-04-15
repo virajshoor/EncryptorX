@@ -1,2 +1,2 @@
-# Shoor-s-Encryptor
+# EncryptorX
 A open source encryptor made in python.
