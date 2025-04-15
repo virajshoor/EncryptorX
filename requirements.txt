@@ -1,0 +1,2 @@
+cryptography>=39.0.0
+py2app>=0.28.0 
